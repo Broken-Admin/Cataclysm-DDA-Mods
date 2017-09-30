@@ -1,0 +1,19 @@
+[
+{
+    "type" : "COMESTIBLE",
+    "id" : "rice",
+    "name" : "rice",
+    "weight" : 100,
+    "color" : "light_gray",
+    "comestible_type" : "FOOD",
+    "symbol" : ".",
+    "healthy" : 1,
+    "nutrition" : 5,
+    "description" :"Long-grain white rice.",
+    "price" : 10,
+    "material" : "veggy",
+    "volume" : 1,
+    "flags" : ["HEAT_FOOD","EATEN_HOT"],
+    "fun" : -5
+}
+]
