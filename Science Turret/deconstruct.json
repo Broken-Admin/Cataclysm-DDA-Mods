@@ -1,13 +1,13 @@
 [
     {
-    "result": "",
+    "result": "bot_turret_science",
     "type": "uncraft",
     "time": 300000,
     "qualities": [
       { "id": "SCREW", "level": 1, "amount": 1 },
       { "id": "SAW_M_FINE", "level": 1, "amount": 1}
     ],
-    "tools": [ "soldering_iron", 20 ],
+    "tools": [ [ [ "soldering_iron", 20 ] ] ],
     "components": [
       [ "scrap", 4 ],
       [ "material_aluminum_ingot", 2 ],
