@@ -10,7 +10,7 @@
     "to_hit": -3,
     "bashing": 6,
     "material": [ "steel", "aluminum" ],
-    "symbol": "%",
+    "symbol": "*",
     "color": "light_green",
     "use_action": {
       "type": "place_monster",

@@ -4,9 +4,9 @@
       "ident": "sci_turret",
       "name": "Science Turret",
       "authors": [ "Broken \"Spaghetti\" Admin" ],
-      "maintainer": [ "Broken Admin" ],
-      "description": "Adds a new robot faction, a new turret type & inactive turret item.",
-      "category": "content",
+      "maintainer": [ "Broken \"Spaghetti\"  Admin" ],
+      "description": "Adds new factions and edits some pre-existing monsters.",
+      "category": "",
       "dependencies": [ "dda" ]
     }
   ]
