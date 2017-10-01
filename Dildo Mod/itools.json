@@ -1,0 +1,15 @@
+  {
+    "id": "dildo",
+    "type": "TOOL",
+    "name": "dildo",
+    "name_plural": "dildoes",
+    "description": "A dildo.",
+    "weight": 0,
+    "volume": 1,
+    "price": 100,
+    "to_hit": 1,
+    "bashing": 5,
+    "material": "plastic",
+    "symbol": "|",
+    "color": "grey"
+  }
