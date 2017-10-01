@@ -10,7 +10,7 @@
     "tools": [ "soldering_iron", 20 ],
     "components": [
       [ "scrap", 4 ],
-      [ "material_aluminum_ingot" ],
+      [ "material_aluminum_ingot", 2 ],
       [ "rm614_lmg", 1 ],
       [ "RAM", 2 ],
       [ "plut_cell", 1 ],
