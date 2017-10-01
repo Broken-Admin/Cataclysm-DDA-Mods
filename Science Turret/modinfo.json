@@ -1,0 +1,13 @@
+[
+    {
+      "type": "MOD_INFO",
+      "ident": "sci_turret",
+      "name": "Science Turret",
+      "authors": [ "Broken \"Spaghetti\" Admin" ],
+      "maintainer": [ "Broken Admin" ],
+      "description": "Adds a new robot faction, a new turret type & inactive turret item.",
+      "category": "content",
+      "dependencies": [ "dda" ]
+    }
+  ]
+  
