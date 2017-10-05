@@ -9,12 +9,12 @@
     "symbol" : "|",
     "healthy" : 1,
     "nutrition" : 5,
+    "fun" : -5,
     "description" :"Long-grain white rice.",
     "price" : 10,
     "material" : "veggy",
     "volume" : 1,
-    "flags" : ["HEAT_FOOD","EATEN_HOT"],
-    "fun" : -5
+    "flags" : ["HEAT_FOOD","EATEN_HOT"]
 },
 {
     "type": "COMESTIBLE",
@@ -23,8 +23,16 @@
     "name-plural": "rice patties",
     "material": "veggy",
     "symbol": "@",
+    "color": "light_gray",
+    "comestible_type": "FOOD",
+    "healthy": 3,
+    "nutrition": 12,
+    "quench": 6,
     "weight": 113.63,
-    "volume": 1000,
-    "description": "A plain rice patty"
+    "volume": 4,
+    "price": 50,
+    "description": "A plain rice patty.",
+    "plural-description": "Some plain rice patties.",
+    "flags": ["HEAT_FOOD","EATEN_HOT" ]
 }
 ]
