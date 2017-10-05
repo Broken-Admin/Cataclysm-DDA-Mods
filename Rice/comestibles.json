@@ -6,7 +6,7 @@
     "weight" : 100,
     "color" : "light_gray",
     "comestible_type" : "FOOD",
-    "symbol" : ".",
+    "symbol" : "|",
     "healthy" : 1,
     "nutrition" : 5,
     "description" :"Long-grain white rice.",
@@ -15,5 +15,16 @@
     "volume" : 1,
     "flags" : ["HEAT_FOOD","EATEN_HOT"],
     "fun" : -5
+},
+{
+    "type": "COMESTIBLE",
+    "id": "patty_rice",
+    "name": "rice patty",
+    "name-plural": "rice patties",
+    "material": "veggy",
+    "symbol": "@",
+    "weight": 113.63,
+    "volume": 1000,
+    "description": "A plain rice patty"
 }
 ]
