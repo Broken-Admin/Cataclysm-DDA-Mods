@@ -17,7 +17,7 @@
    },
    {
     "id": "seed_rice",
-    "copy-from": "rice seed",
+    "copy-from": "seed",
     "type": "COMESTIBLE",
     "name": "rice seed",
     "name-plural": "rice seeds",
