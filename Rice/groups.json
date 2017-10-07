@@ -1,0 +1,32 @@
+[
+    {
+        "type" : "item_group",
+        "id" : "farming_seeds",
+        "items" : [
+              ["seed_rice", 69] 
+            ],
+        "//": "#69 #XD #LOL #LIT #FAM #TAG-YOURSELF"
+    },
+    {
+        "id": "groce_ingredient",
+        "type": "item_group",
+        "items": [
+          [ "flour", 65 ],
+          [ "cornmeal", 50 ],
+          [ "yeast", 40 ],
+          [ "powder_eggs", 55 ],
+          [ "milk_powder", 45 ],
+          [ "salt", 50 ],
+          [ "sugar", 60 ],
+          [ "rice", 68 ]
+        ]
+    },
+    {
+        "id": "groce_premade",
+        "type": "item_group",
+        "items": [
+        [ "burger_plain_rice", 60 ],
+        [ "patty_plain_rice", 46]
+       ]
+    }
+]

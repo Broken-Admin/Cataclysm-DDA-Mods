@@ -14,6 +14,8 @@
     "price" : 10,
     "material" : "veggy",
     "volume" : 1,
+    "charges": 3,
+    "spoils-in": 0,
     "flags" : ["HEAT_FOOD","EATEN_HOT"]
 },
 {
@@ -31,6 +33,7 @@
     "weight": 113.63,
     "volume": 3,
     "price": 50,
+    "spoils-in": 12,
     "description": "A plain rice patty.",
     "plural-description": "Some plain rice patties.",
     "flags": ["HEAT_FOOD","EATEN_HOT" ]
@@ -50,8 +53,10 @@
     "weight": 352.253, 
     "//": "Haha, the decimal place is just the number backwards. This was not intended.", 
     "//": "It's just the base weight of the *rice patty*, times 3.10.",
+    
     "volume": 6,
     "price": 50,
+    "spoils_in": 3,
     "description": "A plain rice burger",
     "plural-description": "Some plain rice burgers",
     "flags": ["HEAT_FOOD","EATEN_HOT" ]
