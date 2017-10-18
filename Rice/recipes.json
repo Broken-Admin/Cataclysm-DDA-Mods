@@ -21,6 +21,6 @@
         "difficulty": 0,
         "time": 10,
         "autolearn": true,
-        "components": [ [ [ "plain_patty_rice", 2 ] ], [ [ "meat_cooked", 1 ], [ "meat_smoked", 1 ], [ "jerky", 1 ], [ "dry_meat" , 1 ] ] ]
+        "components": [ [ [ "patty_plain_rice", 2 ] ], [ [ "meat_cooked", 1 ], [ "meat_smoked", 1 ], [ "jerky", 1 ], [ "dry_meat" , 1 ] ] ]
     }
 ]
