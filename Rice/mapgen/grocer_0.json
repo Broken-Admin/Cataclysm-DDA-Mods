@@ -48,12 +48,12 @@
           "{": "f_rack"
         },
         "place_items": [
-          { "item": "fridgesnacks", "x": 3, "y": [ 10, 15 ], "chance": 65, "repeat": [ 1, 3 ] },
+          { "item": "groce_premade", "x": 3, "y": [ 10, 15 ], "chance": 80, "repeat": [ 1, 3, 5 ] },
           { "item": "fridge", "x": [ 8, 14 ], "y": 20, "chance": 70, "repeat": [ 1, 3 ] },
           { "item": "fridge", "x": [ 19, 20 ], "y": 20, "chance": 50, "repeat": [ 1, 3 ] },
           { "item": "softdrugs", "x": 6, "y": [ 10, 15 ], "chance": 55, "repeat": [ 1, 3 ] },
           { "item": "cleaning", "x": 7, "y": [ 10, 15 ], "chance": 88, "repeat": [ 1, 3 ] },
-          { "item": "kitchen", "x": 10, "y": [ 10, 15 ], "chance": 75, "repeat": [ 1, 3 ] },
+          { "item": "groce_ingredient_asian", "x": 10, "y": [ 10, 15 ], "chance": 75, "repeat": [ 1, 3 ] },
           { "item": "snacks", "x": 11, "y": [ 10, 15 ], "chance": 78, "repeat": [ 1, 3 ] },
           { "item": "cannedfood", "x": 14, "y": [ 10, 15 ], "chance": 80, "repeat": [ 1, 3 ] },
           { "item": "pasta", "x": 15, "y": [ 10, 15 ], "chance": 74, "repeat": [ 1, 3 ] },
