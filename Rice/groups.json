@@ -16,7 +16,7 @@
         ]
     },
     {
-        "id": "groce_premade",
+        "id": "groce_premade_asian",
         "type": "item_group",
         "items": [
         [ "burger_plain_rice", 60 ]

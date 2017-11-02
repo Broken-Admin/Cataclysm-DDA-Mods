@@ -1,5 +1,7 @@
 [
     {
+      "id": "grocer_asian",
+      "name": "asian grocery store",
       "type": "mapgen",
       "method": "json",
       "om_terrain": [ "s_grocery" ],
@@ -48,7 +50,7 @@
           "{": "f_rack"
         },
         "place_items": [
-          { "item": "groce_premade", "x": 3, "y": [ 10, 15 ], "chance": 80, "repeat": [ 1, 3, 5 ] },
+          { "item": "groce_premade_asian", "x": 3, "y": [ 10, 15 ], "chance": 80, "repeat": [ 1, 5 ] },
           { "item": "fridge", "x": [ 8, 14 ], "y": 20, "chance": 70, "repeat": [ 1, 3 ] },
           { "item": "fridge", "x": [ 19, 20 ], "y": 20, "chance": 50, "repeat": [ 1, 3 ] },
           { "item": "softdrugs", "x": 6, "y": [ 10, 15 ], "chance": 55, "repeat": [ 1, 3 ] },

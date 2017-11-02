@@ -1,0 +1,13 @@
+[
+    {
+        "type": "scenario",
+        "ident": "lab_chal_2",
+        "name": "Lab Challange 2",
+        "points" : -3,
+        "description": "The normal challenge with more professions",
+        "start_name": "Lab",
+        "allowed_locs" : ["lab_stairs","lab_finale","ice_lab_stairs","ice_lab_finale"],
+        "professions" : ["unemployed","mutant_patient","mutant_volunteer","labtech","broken_cyborg", "bio_sci"],
+        "flags" : ["CHALLENGE"]
+      }
+]
