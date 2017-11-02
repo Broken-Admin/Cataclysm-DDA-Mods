@@ -1,6 +1,6 @@
 # This is a Repo of my mods for Cataclysm-DDA
 ## Most of these commits are sarcasam with a bit of truth
-## =======================================================================================================================================
+## =======================================================================
 ### Disinfectant - Adds a new way for crafting disinfectant, items  included  in mod don't spawn naturally... **YET**
 ## =======================================================================================================================================
 ### Mo Create Choi - More choices for character creation
