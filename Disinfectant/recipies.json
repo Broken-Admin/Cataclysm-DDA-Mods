@@ -14,7 +14,7 @@
         [ "water", 1 ]
       ],
       [
-        [ "disinfectant _powder", 10 ]
+        [ "disinfectant_powdered", 5 ]
       ]
     ]
 }
