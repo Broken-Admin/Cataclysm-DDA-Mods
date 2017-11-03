@@ -10,6 +10,6 @@
 
 ### *Survivor Notes* - Adds more snippets for *survivor notes*
 
-### *Zips* - Zipped files of the mods. (When I feel I've reached a certain point in developement
+### *Zips* - Zipped files of the mods. (When I feel I've reached a certain point in developement)
 
 ### *NotMyMods* - Mods I want to alter or change to add my own spice
