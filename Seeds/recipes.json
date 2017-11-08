@@ -2,12 +2,34 @@
     {
         "result": "seed_steel",
         "type": "recipe",
-        "category": "CC_FOOD",
-        "subcategory": "CSC_FOOD_VEGGI",
-        "skill_used": "ma
-        "difficulty": 2,
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
         "time": 5000,
         "autolearn": true,
         "components": [ [ [ "mutagen", 1 ] ], [ [ "steel_chunk", 1 ], [ "steel_lump", 1 ], [ "scrap", 15 ], [ "nugget_steel", 10 ], [ "bar_steel", 1 ] ], [ [ "seed", 1 ] ] ]
+    },
+    {
+        "result": "seed_gold",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "gold_small", 5 ] ] ]
+    },
+    {
+        "result": "seed_gold",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "silver_small", 5 ] ] ]
     }
 ]
