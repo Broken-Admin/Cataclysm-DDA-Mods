@@ -23,11 +23,11 @@
     "name-plural": "steel seeds",
     "weight": 10,
     "volume": 0,
-    "description": "Seeds for a mutated plant that grows steel nuggets",
+    "description": "A mutated buckwheat plant that produces steel nuggets, along with buckwheat.",
     "seed_data": {
-        "plant_name": "steel",
+        "plant_name": "steel_buckwheat",
         "fruit": "nugget_steel",
-        "byproducts": [ "scrap" ],
+        "byproducts": [ "scrap", "buckwheat" ],
         "grow": 100
     }
    },
@@ -39,10 +39,11 @@
     "name-plural": "gold seeds",
     "weight": 10,
     "volume": 0,
-    "description": "Seeds for a mutated plant that grows small peices of gold",
+    "description": "A mutated buckwheat plant that produces small gold pieces, along with buckwheat.",
     "seed_data": {
-        "plant_name": "gold",
+        "plant_name": "gold_buckwheat",
         "fruit": "gold_small",
+        "byproducts": [ "buckwheat" ],
         "grow": 100
     }
    },
@@ -54,10 +55,11 @@
     "name-plural": "silver plant seeds",
     "weight": 10,
     "volume": 0,
-    "description": "Seeds for a mutated plant that grows steel nuggets",
+    "description": "A mutated buckwheat plant that produces small siver pieces, along with buckwheat.",
     "seed_data": {
-        "plant_name": "silver",
+        "plant_name": "silver_buckwheat",
         "fruit": "silver_small",
+        "byproducts": [ "buckwheat" ],
         "grow": 100
     }
    }
