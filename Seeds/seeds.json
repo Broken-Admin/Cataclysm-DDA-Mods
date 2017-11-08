@@ -16,9 +16,6 @@
      "color": "light_gray"
    },
    {
-    "//": "Steel Seed Item"
-   },
-   {
     "id": "seed_steel",
     "copy-from": "seed",
     "type": "COMESTIBLE",
@@ -33,9 +30,6 @@
         "byproducts": [ "scrap" ],
         "grow": 100
     }
-   },
-   {
-    "//": "Gold Seed Item"
    },
    {
     "id": "seed_gold",
@@ -53,9 +47,6 @@
     }
    },
    {
-    "//": "Silver Seed Item" 
-   },
-   {
     "id": "seed_silver",
     "copy-from": "seed",
     "type": "COMESTIBLE",
@@ -65,7 +56,7 @@
     "volume": 0,
     "description": "Seeds for a mutated plant that grows steel nuggets",
     "seed_data": {
-        "plant_name": "rice",
+        "plant_name": "silver",
         "fruit": "silver_small",
         "grow": 100
     }
