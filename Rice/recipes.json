@@ -28,10 +28,23 @@
         "type": "recipe",
         "category": "CC_FOOD",
         "subcategory": "CSC_FOOD_VEGGI",
-        "skill_used": "cooking",
+        "skill_used": "survival",
+        "skills_required": [ [ "survival", 3 ], [ "cooking", 1 ] ],
         "difficulty": 0,
         "time": 100,
+        "qualities": [ { "id": "CUT", "level": 1   } ],
+        "components": [ [ "rice", 4 ] ]
+    },
+    {
+        "result": "seed_rice",
+        "type": "recipe",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "survival",
+        "difficulty": 2,
+        "time": 5000,
         "autolearn": true,
-        "components": [ [ [ "rice_dry", 1 ] ], [ [ "water_clean", 5 ], [ "water", 5 ] ] ]
+        "qualities": [ { "id": "CUT", "level": 1 } ],
+        "components": [ [ [ "rice", 1 ] ] ]
     }
 ]
