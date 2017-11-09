@@ -18,9 +18,20 @@
         "category": "CC_FOOD",
         "subcategory": "CSC_FOOD_VEGGI",
         "skill_used": "cooking",
-        "difficulty": 0,
+        "difficulty": 1,
         "time": 10,
         "autolearn": true,
         "components": [ [ [ "patty_plain_rice", 2 ] ], [ [ "meat_cooked", 1 ], [ "meat_smoked", 1 ], [ "jerky", 1 ], [ "dry_meat" , 1 ] ] ]
+    },
+    {
+        "result": "rice",
+        "type": "recipe",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_VEGGI",
+        "skill_used": "cooking",
+        "difficulty": 0,
+        "time": 100,
+        "autolearn": true,
+        "components": [ [ [ "rice_dry", 1 ] ], [ [ "water_clean", 5 ], [ "water", 5 ] ] ]
     }
 ]
