@@ -33,7 +33,7 @@
         "difficulty": 0,
         "time": 100,
         "qualities": [ { "id": "CUT", "level": 1   } ],
-        "components": [ [ "rice", 4 ] ]
+        "components": [ [ [ "rice", 4 ] ] ]
     },
     {
         "result": "seed_rice",
