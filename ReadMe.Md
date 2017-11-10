@@ -1,6 +1,5 @@
 # This is a Repo of my mods for Cataclysm-DDA
 ## Most of these commits are sarcasam with a bit of truth
-## Side-Note - The mods *Disinfectant* and *Rice* are uncompleted
 
 ### *Disinfectant* - Adds a new way for crafting disinfectant
 
