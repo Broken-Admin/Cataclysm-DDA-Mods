@@ -34,5 +34,42 @@
         "symbol": "*",
         "color": "light_gray",
         "ammo_type": "components"
-    }  
+    },
+    {
+        "id": "nugget_alu",
+        "type": "AMMO",
+        "category": "spare_parts",
+        "name": "steel nugget",
+        "plural": "steel nuggets",
+        "description": "Small aluminum nuggets to be used for producing larger bars",
+        "weight": 20,
+        "volume": 1,
+        "price": 1000,
+        "count": 2,
+        "charges": 5,
+        "stack_size": 150,
+        "material": "aluminum",
+        "symbol": ",",
+        "color": "light_gray",
+        "ammo_type": "components"
+    },
+    {
+        "copy-from": "thread",
+        "id": "kev_thread",
+        "type": "AMMO",
+        "category": "spare_parts",
+        "name": "kevlar thread",
+        "name-plural": "kevlar threads",
+        "description": "Threads of kevlar",
+        "weight": 0,
+        "volume": 0,
+        "price": 1000,
+        "count": 4,
+        "charges": 10,
+        "stack_size": 2000,
+        "material": "thread",
+        "symbol": "-",
+        "color": "dark_green",
+        "ammo-type": "components"
+    }
 ]
