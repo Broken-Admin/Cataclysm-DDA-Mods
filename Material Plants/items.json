@@ -67,7 +67,7 @@
         "count": 4,
         "charges": 10,
         "stack_size": 2000,
-        "material": "thread",
+        "material": "kevlar",
         "symbol": "-",
         "color": "dark_green",
         "ammo-type": "components"

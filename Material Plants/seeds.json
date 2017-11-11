@@ -122,7 +122,7 @@
     "description": "A mutated buckwheat plant that produces peices of rock, along with buckwheat.",
     "seed_data": {
         "plant_name": "rock buckwheat",
-        "fruit": "material_rock",
+        "fruit": "rock",
         "byproducts": [ "buckwheat" ],
         "grow": 100
     }

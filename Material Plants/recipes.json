@@ -78,7 +78,7 @@
         "difficulty": 4,
         "time": 5000,
         "autolearn": true,
-        "components": [ [ [ "mutagen", 1 ] ], [ [ "nugget_alu", 4 ], [ "material_aluminum_ingot", 1 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "nugget_alu", 4 ], [ "material_aluminium_ingot", 1 ] ], [ [ "seed_buckwheat", 4 ] ] ]
     },
     {
         "result": "kevlar_plate",
@@ -96,5 +96,71 @@
           { "id": "SEW", "level": 1 }
         ],
         "componets": [ [ [ "kev_thread", 150 ] ], [ [ "sheet_metal", 2 ] ] ]
+    },
+    {
+        "result": "seed_coal",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "coal_lump", 30 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+    },
+    {
+        "result": "seed_rock_salt",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "material_rocksalt", 2 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+    },
+    {
+        "result": "seed_rock_salt",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "material_rocksalt", 2 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+    },
+    {
+        "result": "seed_rock",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "rock", 15 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+    },
+    {
+        "result": "seed_limestone",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "material_limestone", 2 ] ], [ [ "seed_buckwheat", 4 ] ] ]
+    },
+    {
+        "result": "seed_kev",
+        "type": "recipe",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_OTHER",
+        "skill_used": "cooking",
+        "difficulty": 4,
+        "time": 5000,
+        "autolearn": true,
+        "components": [ [ [ "mutagen", 1 ] ], [ [ "kev_thread", 20 ] ], [ [ "seed_buckwheat", 4 ] ] ]
     }
 ]

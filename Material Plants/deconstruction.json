@@ -2,7 +2,7 @@
     {
         "result": "kevlar_plate",
         "type": "uncraft",
-        "skill_used": "talior",
+        "skill_used": "tailor",
         "time": 90000,
         "qualities": [
             { "id": "CUT", "level": 1 },
