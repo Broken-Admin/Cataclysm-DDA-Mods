@@ -1,0 +1,12 @@
+[
+    {
+      "type": "MOD_INFO",
+      "ident": "hd_doors",
+      "name": "Heavy Duty Doors",
+      "authors": [ "Broken \"Spaghetti\" Admin" ],
+      "maintainers": [ "Broken \"Spaghetti\" Admin" ],
+      "description": "Adds heavy duty door and opaque heavy duty door.",
+      "category": "items",
+      "dependencies": [ "dda" ]
+    }
+]
