@@ -6,7 +6,7 @@
       "authors": [ "Broken \"Spaghetti\" Admin" ],
       "maintainers": [ "Broken \"Spaghetti\" Admin" ],
       "description": "Adds heavy duty door and opaque heavy duty door.",
-      "category": "items",
+      "category": "vehicles",
       "dependencies": [ "dda" ]
     }
 ]
