@@ -11,6 +11,8 @@
 
 ### *Material Plants* - Adds plants that can grow gold, steel, and silver.
 
+### *Mo' Monsters* - Adds new monsters, still a W.I.P.
+
 ### *Zips* - Zipped files of the mods. (When I feel I've reached a certain point in developement)
 
 ### *NotMyMods* - Mods I want to alter or change to add my own spice
