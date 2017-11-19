@@ -32,6 +32,7 @@
         "ammo_type": "small_bolt_crossbow",
         "capacity": 25,
         "reliability": 3,
-        "reload_time": 170
+        "reload_time": 170,
+        "flags": [ "MAG_BULKY" ]
     }
 ]
