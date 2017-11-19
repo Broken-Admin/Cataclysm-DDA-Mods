@@ -1,0 +1,48 @@
+[
+    {
+        "type" : "recipe",
+        "result": "hybrid_bolt",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_ARROWS",
+        "skill_used": "fabrication",
+        "skills_required": ["archery", 3],
+        "difficulty": 4,
+        "time": 10000,
+        "autolearn": true,
+        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "qualities":[
+          {"id":"HAMMER","level":1},
+          {"id":"SAW_M","level":1}
+        ], "components": [
+            [
+              ["scrap", 6],
+              ["steel_chunk", 2]
+            ]
+        ]
+    },
+    {
+        "type" : "recipe",
+        "result": "hybrid_bolt_explode",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_ARROWS",
+        "skill_used": "fabrication",
+        "skills_required": ["archery", 3],
+        "difficulty": 4,
+        "time": 10000,
+        "autolearn": true,
+        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "qualities":[
+            {"id":"SAW_M","level":1}
+          ], "components": [
+            [
+                [ "duct_tape", 17 ]
+            ],
+            [
+                [ "hybrid_bolt", 2 ]
+            ],
+            [
+                [ "40mm_frag", 2 ]
+            ]
+        ]
+    }
+]

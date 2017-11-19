@@ -1,0 +1,136 @@
+[
+    {
+        "type" : "recipe",
+        "result": "crossbow_hybrid_mag",
+        "category": "CC_WEAPON",
+        "subcategory": "CSC_WEAPON_MAGAZINES",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 30000,
+        "autolearn": false,
+        "tools": [
+          [ ["mold_plastic", -1]  ],
+          [ [ "surface_heat", 5, "LIST" ] ]
+          ],
+          "components": [
+          [
+            ["plastic_chunk", 12],
+            ["spring", 2]
+          ]
+          ]
+    },
+    {
+        "type" : "recipe",
+        "result": "hybrid_crossbow",
+        "category": "CC_WEAPON",
+        "subcategory": "CSC_WEAPON_RANGED",
+        "skill_used": "mechanics",
+        "skills_required": [ [ "mechanics", 4 ],[ "archery", 3 ], [ "fabrication", 4 ] ],
+        "difficulty": 3,
+        "time": 1500000,
+        "decomp_learn": 2,
+        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2]],
+        "tools": [
+            [
+              [ "anvil", -1 ],
+              [ "swage", -1 ],
+              [ "tongs", -1 ]
+            ],
+            [
+              [ "forge", 475 ],
+              [ "oxy_torch", 95 ]
+            ]
+          ],
+        "qualities" : [
+          {"id":"SCREW_FINE","level":1},
+          {"id":"WRENCH","level":1},
+          {"id": "HAMMER", "level": 3}
+        ], "components": [
+          [
+            [ "scrap", 26 ], [ "steel_lump", 16 ], [ "steel_chunk", 14 ]
+          ],
+          [
+            [ "spring", 3 ]
+          ],
+          [
+            [ "glock_19", 1 ]
+          ]
+        ]
+      },
+      {
+        "type" : "recipe",
+        "result": "hybrid_crossbow_19",
+        "category": "CC_WEAPON",
+        "subcategory": "CSC_WEAPON_RANGED",
+        "skill_used": "mechanics",
+        "skills_required": [ [ "mechanics", 4 ],[ "archery", 3 ], [ "fabrication", 4 ] ],
+        "difficulty": 3,
+        "time": 1500000,
+        "decomp_learn": 2,
+        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2]],
+        "tools": [
+            [
+              [ "anvil", -1 ],
+              [ "swage", -1 ],
+              [ "tongs", -1 ]
+            ],
+            [
+              [ "forge", 475 ],
+              [ "oxy_torch", 95 ]
+            ]
+          ],
+        "qualities" : [
+          {"id":"SCREW_FINE","level":1},
+          {"id":"WRENCH","level":1},
+          {"id": "HAMMER", "level": 3}
+        ], "components": [
+          [
+            [ "scrap", 26 ], [ "steel_lump", 16 ], [ "steel_chunk", 14 ]
+          ],
+          [
+            [ "spring", 3 ]
+          ],
+          [
+            [ "glock_19", 1 ]
+          ]
+        ]
+      },
+      {
+        "type" : "recipe",
+        "result": "hybrid_crossbow_19",
+        "category": "CC_WEAPON",
+        "subcategory": "CSC_WEAPON_RANGED",
+        "skill_used": "mechanics",
+        "skills_required": [ [ "mechanics", 4 ],[ "archery", 3 ], [ "fabrication", 4 ] ],
+        "difficulty": 3,
+        "time": 1500000,
+        "decomp_learn": 2,
+        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2]],
+        "tools": [
+            [
+              [ "anvil", -1 ],
+              [ "swage", -1 ],
+              [ "tongs", -1 ]
+            ],
+            [
+              [ "forge", 475 ],
+              [ "oxy_torch", 95 ]
+            ]
+          ],
+        "qualities" : [
+          {"id":"SCREW_FINE","level":1},
+          {"id":"WRENCH","level":1},
+          {"id": "HAMMER", "level": 3}
+        ], "components": [
+          [
+            [ "scrap", 26 ], [ "steel_lump", 16 ], [ "steel_chunk", 14 ]
+          ],
+          [
+            [ "spring", 3 ]
+          ],
+          [
+            [ "glock_22", 1 ]
+          ]
+        ]
+      }
+]
