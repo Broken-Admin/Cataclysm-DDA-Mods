@@ -1,0 +1,26 @@
+[
+     {
+        "id": "hybrid_crossbow",
+        "copy-from": "pistol_base",
+        "type": "GUN",
+        "name": "hybrid crossbow",
+        "description": "A crossbow mixed with a Glock 19.",
+        "weight": 595,
+        "volume": 2,
+        "price": 69000,
+        "to_hit": -2,
+        "bashing": 8,
+        "material": [ "plastic", "steel" ],
+        "symbol": "(",
+        "color": "dark_gray",
+        "ammo": "small_bolt_crossbow",
+        "valid_mod_locations": [ [ "accessories", 2 ],[ "grip", 1 ],[ "mechanism", 4 ],[ "rail", 1 ],[ "sights", 1 ],[ "stock", 1 ],[ "underbarrel", 1 ] ],
+        "ranged_damage": -1,
+        "dispersion": 480,
+        "durability": 6,
+        "magazine_well": 1,
+        "magazines":  [
+            [ "small_bolt_crossbow", [ "crossbow_hybrid" ] ]
+        ]
+      }
+]

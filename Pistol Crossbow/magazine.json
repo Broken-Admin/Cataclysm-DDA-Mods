@@ -1,0 +1,18 @@
+[
+    {
+        "id": "crossbow_hybrid",
+        "type": "MAGAZINE",
+        "name": "hybrid crossbow magazine",
+        "description": "A smaller magazine made for a hybrid crossbow.",
+        "weight": 210,
+        "volume": 2,
+        "price": 4700,
+        "material": "plastic",
+        "symbol": "#",
+        "color": "ltgray",
+        "ammo_type": "small_bolt_crossbow",
+        "capacity": 15,
+        "reliability": 7,
+        "reload_time": 140
+      }
+]

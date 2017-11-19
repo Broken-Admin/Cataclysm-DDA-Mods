@@ -1,0 +1,9 @@
+[
+    {
+        "type" : "ammunition_type",
+        "id" : "small_bolt_crossbow",
+        "name": "small crossbow bolt",
+        "name_plural": "hybrid bolts",
+        "default" : "hybrid_bolt"
+    }
+]
