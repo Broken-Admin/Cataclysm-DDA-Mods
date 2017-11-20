@@ -1,35 +1,15 @@
 [
       {
         "type" : "recipe",
-        "result": "crossbow_hybrid_mag",
-        "category": "CC_WEAPON",
-        "subcategory": "CSC_WEAPON_MAGAZINES",
-        "skill_used": "fabrication",
-        "difficulty": 4,
-        "time": 30000,
-        "autolearn": false,
-        "tools": [
-          [ ["mold_plastic", -1]  ],
-          [ [ "surface_heat", 5, "LIST" ] ]
-          ],
-          "components": [
-          [
-            ["plastic_chunk", 12],
-            ["spring", 2]
-          ]
-          ]
-      },
-      {
-        "type" : "recipe",
         "result": "hybrid_crossbow_19",
         "category": "CC_WEAPON",
         "subcategory": "CSC_WEAPON_RANGED",
         "skill_used": "mechanics",
         "skills_required": [ [ "mechanics", 4 ],[ "archery", 3 ], [ "fabrication", 4 ] ],
         "difficulty": 3,
-        "time": 1500000,
+        "time": 150000,
         "decomp_learn": 2,
-        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2]],
+        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2], [ "mag_pistol", 3], [ "mag_guns", 3], [ "manual_pistol", 3], [ "textbook_anarch", 2 ]],
         "tools": [
             [
               [ "anvil", -1 ],
@@ -65,9 +45,9 @@
         "skill_used": "mechanics",
         "skills_required": [ [ "mechanics", 4 ],[ "archery", 3 ], [ "fabrication", 4 ] ],
         "difficulty": 3,
-        "time": 1500000,
+        "time": 150000,
         "decomp_learn": 2,
-        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2]],
+        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2], [ "mag_pistol", 3], [ "mag_guns", 3], [ "manual_pistol", 3], [ "textbook_anarch", 2 ]],
         "tools": [
             [
               [ "anvil", -1 ],
