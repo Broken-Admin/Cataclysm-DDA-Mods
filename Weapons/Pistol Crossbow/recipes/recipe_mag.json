@@ -14,10 +14,12 @@
           [ [ "surface_heat", 5, "LIST" ] ]
           ],
           "components": [
-          [
-            ["plastic_chunk", 12]
-          ],
-            ["spring", 2]
+            [
+              ["plastic_chunk", 12]
+            ],
+            [
+              ["spring", 2]
+            ]
           ]
       },
       {
@@ -35,12 +37,12 @@
           [ [ "surface_heat", 5, "LIST" ] ]
           ],
           "components": [
-          [
-            ["plastic_chunk", 14]
-          ],
-          [
-            ["spring", 2]
-          ]
+            [
+              ["plastic_chunk", 14]
+            ],
+            [
+              ["spring", 2]
+            ]
           ]
       }
 ]

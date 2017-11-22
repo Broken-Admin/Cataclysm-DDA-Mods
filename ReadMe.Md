@@ -1,18 +1,32 @@
 # This is a Repo of my mods for Cataclysm-DDA
 ## Most of these commits are sarcasam with a bit of truth
 
-### *Disinfectant* - Adds a new way for crafting disinfectant
+## Weapons - Various weapon mods.
 
-### *Mo Create Choi* - More choices for character creation
+### *Pistol Crossbow* - Adds a hybrid crossbow that fires various types of bolts.
 
-### *Rice* - Adds rice crops, unsure how to get the buildings to spawn naturally
+### *Pressure Weapons* - Adds a craftable pressure rifle and bolts. [W.I.P.]
 
-### *Survivor Notes* - Adds more snippets for *survivor notes*
+## Mo' Something - Anything I named used the prefix Mo' on.
 
-### *Material Plants* - Adds plants that can grow gold, steel, and silver.
+### *Mo' Creation* - Adds more choices for character creation. [W.I.P.]
 
-### *Mo' Monsters* - Adds new monsters, still a W.I.P.
+### *Mo' Handguns* - Adds the Glock 17, Glock Drum Magazines and The Maxim-9.
 
-### *Zips* - Zipped files of the mods. (When I feel I've reached a certain point in developement)
+### *Mo' Insects* - Adds more bothersome insects to fend off. [W.I.P.]
 
-### *NotMyMods* - Mods I want to alter or change to add my own spice
+### *Mo' Monsters* - Adds more monsters for you to fight against. [W.I.P.]
+
+## Item Additions - Mods that add more items to the game.
+
+### *Disinfectant* - Adds a new way to craft disinfectant. [W.I.P.]
+
+### *Heavy Duty Doors* - Adds heavy duty doors, this was a requested mod, it might be mainlined later.
+
+### *Material Plants* - Adds mutated buckwheat that grows various types of minerals.
+
+### *Rice* - Adds a rice crop and rice based food.
+
+### *Science Additions* - Adds a new turret type that can't be used due to labs being hardcoded.
+
+### *Survivor Notes* - Add more survivor note snippets that are hints for new players or jokes for late-game players.
