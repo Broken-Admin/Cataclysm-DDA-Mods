@@ -9,7 +9,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "recipe_arrows", 2 ], [ "textbook_anarch", 2 ]],
         "qualities":[
           {"id":"HAMMER","level":1},
           {"id":"SAW_M","level":1}
@@ -29,7 +29,7 @@
         "difficulty": 0,
         "time": 1000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
           {"id":"HAMMER","level":1},
           {"id":"SAW_M","level":1}
@@ -48,7 +48,7 @@
         "difficulty": 0,
         "time": 1000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
           {"id":"HAMMER","level":1},
           {"id":"SAW_M","level":1}
@@ -67,7 +67,7 @@
         "difficulty": 0,
         "time": 1000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
           {"id":"HAMMER","level":1},
           {"id":"SAW_M","level":1}
@@ -87,7 +87,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -112,7 +112,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -137,7 +137,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -162,7 +162,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -187,7 +187,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -212,7 +212,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -237,7 +237,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [[ "textbook_anarch", 2 ]],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [
@@ -262,7 +262,7 @@
         "difficulty": 4,
         "time": 10000,
         "autolearn": true,
-        "book_learn" : [[ "recipe_arrows", 2 ]],
+        "book_learn" : [],
         "qualities":[
             {"id":"SAW_M","level":1}
           ], "components": [

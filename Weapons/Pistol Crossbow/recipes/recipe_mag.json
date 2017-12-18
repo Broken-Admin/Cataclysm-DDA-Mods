@@ -8,7 +8,7 @@
         "difficulty": 4,
         "time": 30000,
         "autolearn": false,
-        "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2], [ "mag_pistol", 3], [ "mag_guns", 3], [ "manual_pistol", 3], [ "textbook_anarch", 2 ]],
+        "book_learn" : [[ "recipe_bows", 1 ], [ "manual_archery", 3] , [ "book_archery", 2], [ "mag_pistol", 3], [ "mag_guns", 3], [ "manual_pistol", 3], [ "textbook_anarch", 2 ]],
         "tools": [
           [ ["mold_plastic", -1]  ],
           [ [ "surface_heat", 5, "LIST" ] ]
@@ -33,9 +33,9 @@
         "autolearn": false,
         "book_learn" : [[ "recipe_bows", 1 ] , [ "manual_archery", 3] , [ "book_archery", 2], [ "mag_pistol", 3], [ "mag_guns", 3], [ "manual_pistol", 3], [ "textbook_anarch", 2 ]],
         "tools": [
-          [ ["mold_plastic", -1]  ],
-          [ [ "surface_heat", 5, "LIST" ] ]
-          ],
+          [ ["mold_plastic", -1] ],
+          [ ["surface_heat", 5, "LIST"] ]
+           ],
           "components": [
             [
               ["plastic_chunk", 14]
