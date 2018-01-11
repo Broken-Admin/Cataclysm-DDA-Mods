@@ -11,8 +11,6 @@
 
 ### *Mo' Creation* - Adds more choices for character creation. [W.I.P.]
 
-### *Mo' Handguns* - Adds the Glock 17, Glock Drum Magazines and The Maxim-9.
-
 ### *Mo' Insects* - Adds more bothersome insects to fend off. [W.I.P.]
 
 ### *Mo' Monsters* - Adds more monsters for you to fight against. [W.I.P.]
