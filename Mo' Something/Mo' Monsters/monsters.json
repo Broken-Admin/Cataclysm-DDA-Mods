@@ -3,7 +3,7 @@
         "id": "mon_zom_crow",
         "type": "MONSTER",
         "name": "zombie crow",
-        "description": "What used to be a elegant black bird is now a rotten husk of a bird, unfogiving in it's fight to find food.",
+        "description": "What used to be a elegant black bird is now a rotten husk of a bird, unforgiving in it's fight to find food.",
         "default_faction": "zombie",
         "categories": [ "WILDLIFE" ],
         "species": [ "ZOMBIE" ],
