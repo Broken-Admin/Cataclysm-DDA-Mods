@@ -17,7 +17,11 @@
 
 ## Item Additions - Mods that add more items to the game.
 
+### *BSA Makeshift* - Adds new makeshift versions of items. [W.I.P.]
+
 ### *Disinfectant* - Adds a new way to craft disinfectant. [W.I.P.]
+
+### *Gel Walls* - Adds a 2 stage gel wall that can be created by the players. [W.I.P.]
 
 ### *Heavy Duty Doors* - Adds heavy duty doors, this was a requested mod, it might be mainlined later.
 
