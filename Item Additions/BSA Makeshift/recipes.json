@@ -67,7 +67,7 @@
   ]
   },
   {
-    "result": "grenade",
+    "result": "make_grenade_frag",
     "type" : "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_EXPLOSIVE",
@@ -80,13 +80,13 @@
     ],
     "time": 10000,
     "reversible": false,
-    "tools": [ [ [ "welder", 50 ], [ "welder_crude", 60 ], [ "toolset", 55 ], [ "soldering_iron", 80 ] ] ],  
+    "tools": [ [ [ "welder", 30 ], [ "welder_crude", 35 ], [ "toolset", 15 ], [ "soldering_iron", 60 ] ] ],  
     "components": [ 
       [ [ "pilot_light", 1 ] ],
       [ [ "superglue", 1 ], [ "duct_tape", 75 ], [ "string_36", 1 ] ],
-      [ [ "steel_chunk", 5 ], [ "steel_lump", 5 ], [ "scrap", 70 ] ],
+      [ [ "steel_chunk", 5 ], [ "steel_lump", 5 ], [ "scrap", 50 ] ],
       [ [ "scrap", 30 ], [ "nail", 50 ] ],
-      [ [ "gunpowder", 72 ], [ "chem_black_powder", 144 ], [ "shot_00", 3 ], [ "shot_slug", 2 ], [ "shot_bird", 6 ] ]
+      [ [ "gunpowder", 68 ], [ "chem_black_powder", 135 ], [ "shot_bird", 4 ] ]
     ]
   }
 ]

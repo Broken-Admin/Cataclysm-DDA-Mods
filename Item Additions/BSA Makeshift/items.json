@@ -53,7 +53,7 @@
     "watertight": true
  },
  {
-    "id": "makeshift_grenade_frag",
+    "id": "make_grenade_frag",
     "type": "TOOL",
     "name": "makeshift fragmentation grenade",
     "description": "A crude fragmentation grenade.",
@@ -81,17 +81,17 @@
         "name": "Arm grenade",
         "message": "You light the fuse on the %s."
     },
-    "countdown_interval": 5,
+    "countdown_interval": 3,
     "countdown_destroy": true,
     "countdown_action": {
         "type": "explosion",
-        "explosion_power": 5,
+        "explosion_power": 4,
 		"explosion" : {
-			"power": 12,
+			"power": 11,
 			"shrapnel": {
 				"count": 7,
 				"mass": 4,
-				"recovery": 7,
+				"recovery": 5,
 				"drop": "scrap"
 			}
 		},
