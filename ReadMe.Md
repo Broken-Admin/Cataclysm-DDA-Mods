@@ -15,6 +15,8 @@
 
 ### *Mo' Monsters* - Adds more monsters for you to fight against. [W.I.P.]
 
+### *Mo' Vehicles* - Adds multiple vehicles for variety. [W.I.P.]
+
 ## Item Additions - Mods that add more items to the game.
 
 ### *BSA Makeshift* - Adds new makeshift versions of items. [W.I.P.]
