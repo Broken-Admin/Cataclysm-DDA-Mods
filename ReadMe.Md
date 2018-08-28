@@ -7,6 +7,8 @@
 
 ### *Pressure Weapons* - Adds a craftable pressure rifle and bolts. [W.I.P.]
 
+### *Kingsman* - Inspired by the movie Kingman and Kingsman - The Golden Circle, this adds various apparel and weapons shown in the movie. [W.I.P.]
+
 ## Mo' Something - Anything I named used the prefix Mo' on.
 
 ### *Mo' Creation* - Adds more choices for character creation. [W.I.P.]
@@ -26,6 +28,8 @@
 ### *Gel Walls* - Adds a 2 stage gel wall that can be created by the players. [W.I.P.]
 
 ### *Heavy Duty Doors* - Adds heavy duty doors, this was a requested mod, it might be mainlined later.
+
+### *Lean* - Add 'lean' and the items to craft it.
 
 ### *Material Plants* - Adds mutated buckwheat that grows various types of minerals.
 
