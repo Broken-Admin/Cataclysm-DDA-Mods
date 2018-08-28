@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": "misc_statsaman",
+    "id": "misc_statesaman",
     "type": "item_group",
     "items": [
       [ "glasses_statesman", 95 ],
