@@ -14,7 +14,7 @@
         "sound_fail": "oozing!",
         "ter_set": "t_null",
         "items": [
-          { "item": "slime_scrap", "prob": 100, "count": [ 15, 23, 37, 43 ] }
+          { "item": "slime_scrap", "prob": 95, "count": [ 15, 23, 37, 43 ] }
         ]
       },
       "flags": [ "TRANSPARENT", "NOITEM", "REDUCE_SCENT", "SUPPORTS_ROOF", "WALL", "AUTO_WALL_SYMBOL" ]
@@ -33,7 +33,7 @@
       "sound_fail": "oozing!",
       "ter_set": "t_null",
       "items": [
-        { "item": "slime_scrap", "prob": 100, "count": [ 12, 15, 23 ] }
+        { "item": "slime_scrap", "prob": 95, "count": [ 12, 15, 23 ] }
       ]
     },
     "deconstruct": {
